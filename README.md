@@ -14,7 +14,6 @@ Er kann:
 * Änderungen am Ablauf vornehmen
 * den Überblick über das gesamte Event behalten
 
-👉 Hauptnutzer der Anwendung
 
 ---
 

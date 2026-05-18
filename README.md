@@ -1,1 +1,1 @@
-# All-in-One-Student-AI-Tool
+# EventFlow – DJ & Event Planning Tool
